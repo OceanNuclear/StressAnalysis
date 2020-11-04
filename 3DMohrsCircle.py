@@ -90,7 +90,7 @@ ax.set_ylim([-3,3])
 ax.set_ylabel("y-stress")
 ax.set_zlim([-3,3])
 ax.set_zlabel("z-stress")
-ax.set_aspect(1)
+# ax.set_aspect(1)
 plt.show()
 
 '''	#discarded code
