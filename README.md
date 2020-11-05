@@ -5,4 +5,7 @@ Imagine a cube in space, and a source of stress in the x direction. Initially th
 ## 3D case
 The same situation as above, but this time the x,y,z principal stresses are plotted (and ends up as a plane) as we rotate the cube in all directions using a sphere covering curve.
 
-The xy(=yx), yz(=zy), zx(=xz) stress forms a ball instead.
+The xy(=yx), yz(=zy), zx(=xz) stress forms a sphere instead.
+
+## Jupyter notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oceannuclear/StressAnalysis/HEAD?filepath=infinite_tet.ipynb)

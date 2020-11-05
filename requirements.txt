@@ -1,0 +1,4 @@
+numpy==1.18.1
+matplotlib==3.1.2
+mpl_toolkits
+plotly
