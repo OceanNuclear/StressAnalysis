@@ -8,4 +8,4 @@ The same situation as above, but this time the x,y,z principal stresses are plot
 The xy(=yx), yz(=zy), zx(=xz) stress forms a sphere instead.
 
 ## Jupyter notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oceannuclear/StressAnalysis/HEAD?filepath=DrawMohrsCircle.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oceannuclear/StressAnalysis/HEAD?filepath=DrawMohrsCircles.ipynb)
